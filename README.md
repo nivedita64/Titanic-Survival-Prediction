@@ -389,17 +389,3 @@ This project demonstrates:
 - Batch prediction analytics
 - API deployment (Flask/FastAPI)
 
-## 📄 License
-
-This project is made available for educational and research purposes.
-
-## 👨‍💻 Author
-
-Data Scientist/ML Engineer  
-Production-Ready Python ML Projects
-
----
-
-**Version**: 1.0  
-**Last Updated**: 2024  
-**Status**: Production-Ready ✅
